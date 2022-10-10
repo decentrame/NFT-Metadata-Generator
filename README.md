@@ -8,7 +8,7 @@ Create generative art by using the canvas api and node js. Before you use the ge
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/HashLips/hashlips_art_engine.git
+git clone https://github.com/decentrame/NFT-Metadata-Generator.git
 ```
 
 Go to the root of your folder and run this command if you have yarn installed.
@@ -178,7 +178,7 @@ The program will output all the images in the `build/images` directory along wit
   "dna": "d956cdf4e460508b5ff90c21974124f68d6edc34",
   "name": "#1",
   "description": "This is the description of your NFT project",
-  "image": "https://hashlips/nft/1.png",
+  "image": "https://decentrame.com/1.png",
   "edition": 1,
   "date": 1731990799975,
   "attributes": [
@@ -190,7 +190,7 @@ The program will output all the images in the `build/images` directory along wit
     { "trait_type": "Bottom lid", "value": "Low" },
     { "trait_type": "Top lid", "value": "Middle" }
   ],
-  "compiler": "HashLips Art Engine"
+  "compiler": "NFT-Metadata-Generator"
 }
 ```
 
